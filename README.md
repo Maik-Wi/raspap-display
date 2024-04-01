@@ -24,8 +24,7 @@ Here are a few technical values
 2. install the display on your Raspberry Pi Activate SPI interface in Raspi-config. [^1]
 3. perform the installation steps of the Python Setup RGB Display Library from adafruit [^2]
 
-Im Wiki von RasAP gab es auch mal eine Anleitung für die Diesplay-Größe 135x240 [^3], bei Schwierigkeiten kannst du da auch  reinschauen.
-
+In the RasAP wiki there were also instructions for the 135x240 [^3] diesplay size, if you have any difficulties you can also have a look there.
 
 [^1]: https://www.raspberrypi-spy.co.uk/2014/08/enabling-the-spi-interface-on-the-raspberry-pi/
 [^2]: https://learn.adafruit.com/adafruit-mini-pitft-135x240-color-tft-add-on-for-raspberry-pi/python-setup
