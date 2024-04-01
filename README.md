@@ -1,6 +1,6 @@
 # RaspAP 240x240 display
 
-The script is the stats.py from [@billz](https://github.com/billz) for [RaspAP](https://github.com/RaspAP).
+The script is the [stats.py](https://github.com/RaspAP/raspap-webgui/blob/master/app/pitft/stats.py) from [@billz](https://github.com/billz) for [RaspAP](https://github.com/RaspAP).
 I have adapted it so that it displays the values from [stats.py](https://github.com/RaspAP/raspap-webgui/blob/master/app/pitft/stats.py) but on the display size of 240x240.
 
 
